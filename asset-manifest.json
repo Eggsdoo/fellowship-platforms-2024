@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fellowship-platforms-2024/static/css/main.49841727.css",
+    "main.js": "/fellowship-platforms-2024/static/js/main.cf30b2f5.js",
+    "static/js/453.63c343fb.chunk.js": "/fellowship-platforms-2024/static/js/453.63c343fb.chunk.js",
+    "index.html": "/fellowship-platforms-2024/index.html",
+    "main.49841727.css.map": "/fellowship-platforms-2024/static/css/main.49841727.css.map",
+    "main.cf30b2f5.js.map": "/fellowship-platforms-2024/static/js/main.cf30b2f5.js.map",
+    "453.63c343fb.chunk.js.map": "/fellowship-platforms-2024/static/js/453.63c343fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49841727.css",
+    "static/js/main.cf30b2f5.js"
+  ]
+}
