@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/fellowship-platforms-2024/static/css/main.49841727.css",
-    "main.js": "/fellowship-platforms-2024/static/js/main.cf30b2f5.js",
+    "main.css": "/fellowship-platforms-2024/static/css/main.6c006d9a.css",
+    "main.js": "/fellowship-platforms-2024/static/js/main.e9db755e.js",
     "static/js/453.63c343fb.chunk.js": "/fellowship-platforms-2024/static/js/453.63c343fb.chunk.js",
+    "static/media/spp-logo.png": "/fellowship-platforms-2024/static/media/spp-logo.87b332a68946aa1ac52d.png",
+    "static/media/sk-logo.png": "/fellowship-platforms-2024/static/media/sk-logo.fb02c24611f3845f511c.png",
+    "static/media/tupp-logo.png": "/fellowship-platforms-2024/static/media/tupp-logo.f9de6c50507114a3a129.png",
+    "static/media/cup-logo.png": "/fellowship-platforms-2024/static/media/cup-logo.efb64a64e0d4d94fcc39.png",
+    "static/media/tcq-logo.png": "/fellowship-platforms-2024/static/media/tcq-logo.d8b3b7f929004d693a96.png",
+    "static/media/tbf-logo.png": "/fellowship-platforms-2024/static/media/tbf-logo.bc0d375c1313f22708b3.png",
+    "static/media/saf-logo.png": "/fellowship-platforms-2024/static/media/saf-logo.2216b83440175e081217.png",
+    "static/media/cua-logo.png": "/fellowship-platforms-2024/static/media/cua-logo.30248052668c62c6074b.png",
+    "static/media/tn-logo.png": "/fellowship-platforms-2024/static/media/tn-logo.0cd3e235343783214562.png",
+    "static/media/pap-logo.png": "/fellowship-platforms-2024/static/media/pap-logo.f2739874c384288acd81.png",
+    "static/media/nip-logo.png": "/fellowship-platforms-2024/static/media/nip-logo.7ccc2949c07359dc3a20.png",
+    "static/media/nhp-logo.png": "/fellowship-platforms-2024/static/media/nhp-logo.534641e97d104c839460.png",
     "index.html": "/fellowship-platforms-2024/index.html",
-    "main.49841727.css.map": "/fellowship-platforms-2024/static/css/main.49841727.css.map",
-    "main.cf30b2f5.js.map": "/fellowship-platforms-2024/static/js/main.cf30b2f5.js.map",
+    "main.6c006d9a.css.map": "/fellowship-platforms-2024/static/css/main.6c006d9a.css.map",
+    "main.e9db755e.js.map": "/fellowship-platforms-2024/static/js/main.e9db755e.js.map",
     "453.63c343fb.chunk.js.map": "/fellowship-platforms-2024/static/js/453.63c343fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49841727.css",
-    "static/js/main.cf30b2f5.js"
+    "static/css/main.6c006d9a.css",
+    "static/js/main.e9db755e.js"
   ]
 }
